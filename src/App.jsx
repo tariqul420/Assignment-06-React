@@ -1,4 +1,5 @@
 import Button from "./components/Button"
+import Card from "./components/Card"
 import Header from "./components/Header"
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <>
       <Header></Header>
       <Button></Button>
+      <Card></Card>
     </>
   )
 }
