@@ -30,6 +30,6 @@ is a Pet Adoption Platform designed to connect potential pet owners with adoptab
 
 ## Live link to the deployed project
 
-**Github Repo Link:** https://github.com/programming-hero-web-course2/b10a6-pet-adoption-tariqul420.git
+**Github Repo Link:** https://github.com/tariqul420/Assignment-06-React.git
 
-**Live Site link:** https://phhero-assignment-06.surge.sh
+**Live Site link:** https://assignment-06-react.vercel.app
