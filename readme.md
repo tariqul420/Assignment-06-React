@@ -1,7 +1,7 @@
 # Peddy - Pet Adoption Platform
 
 <div align="center">
-  <img src="./images/logo.webp" width="60px" alt="PEDDY logo"/> 
+  <img src="./src/images/logo.webp" width="60px" alt="PEDDY logo"/> 
   <h1>PEDDY</h1>
 </div>
 
